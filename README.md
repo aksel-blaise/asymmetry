@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/205534592.svg)](https://zenodo.org/badge/latestdoi/205534592)
+
 # asymmetry
 
 This article, entitled "Asymmetry of Caddo Ceramics from the Washington Square Mound Site: An Exploratory Analysis," was published in [Digital Applications in Archaeology and Cultural Heritage](https://doi.org/10.1016/j.daach.2017.04.003) in 2017, and the preprint is available for download on [SocArXiv](https://osf.io/preprints/socarxiv/6atz3/). The LaTeX scripts are included in this repository, and can be viewed on [Overleaf](https://www.overleaf.com/read/rxqcygdgcjbf). Unprocessed data have been uploaded to the [Open Science Framework](https://osf.io/dzktb/), and the processed meshes to [Zenodo @ CERN](https://zenodo.org/communities/wsm-41na49/?page=1&size=20).
